@@ -22,5 +22,5 @@ well, the web server i use which is quark (https://git.suckless.org/quark.git) c
   * clone the quark repository
   * cd into it then run make, then as root however you wish to gain root permissions, run make install.
   
-  next to serv the html dir you would do something like this
+  next to serve the html dir you would do something like this
   `quark -h <your local IP address> -p 80 -l -d html/` (i am currently learning how to setup vhosts).
